@@ -7,6 +7,6 @@
 
 **Github Projects I've worked on:**
 
-CSE 455 Final - PCA vs DETR for Facial Recognition: A Qualitative Analysis
- * [github repo](https://github.com/aki18-1861529/CSE455-Final-Project)
- * [website](https://aki18-1861529.github.io/CSE455-Final-Project/)
+ * CSE 455 Final - PCA vs DETR for Facial Recognition: A Qualitative Analysis
+  * [github repo](https://github.com/aki18-1861529/CSE455-Final-Project)
+  * [website](https://aki18-1861529.github.io/CSE455-Final-Project/)
